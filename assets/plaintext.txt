@@ -1,0 +1,1 @@
+Ceci est un test, et j'aimerais savoir si mon algorithme fonctionne correctement pour casser ce chiffrement par substitution ! Vous avez aimé ?
